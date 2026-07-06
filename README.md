@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00BFFF&height=200&section=header&text=iHannsy&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/apirender?type=soft&color=00BFFF&height=200&section=header&text=iHannsy&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
 
 # 🚀 Game Scripter & Automation Developer
 
@@ -10,8 +10,6 @@
 [![Location](https://img.shields.io/badge/Location-Indonesia-00BFFF?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/namakuhans)
 <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-iHannsy.vercel.app-0099FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ihannsy.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namakuhans)
-[![Email](https://img.shields.io/badge/Email-Contact-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namakuhans@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namakuhans)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=namakuhans&color=00BFFF&style=flat-square&label=PROFILE+VIEWS)
@@ -37,12 +35,12 @@ I don't just write code. I build automation systems and immersive game mechanics
 
 ### 💻 Core Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 </p>
 
 ### 🎨 Frontend & Web
@@ -52,7 +50,7 @@ I don't just write code. I build automation systems and immersive game mechanics
 
 ### ☁️ Tooling & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux&theme=dark" />
 </p>
 
 ---
@@ -148,22 +146,9 @@ A high-performance interactive link hub using WebGL to create a memorable person
 
 ---
 
-## 🛠️ Current Focus
-
-```yaml
-learning: [Advanced GLSL, Rust for Systems, Scalable Backend]
-building: [Next-Gen Automation Tools, Secure Store Ecosystems]
-exploring: [Game Engine Internals, Performance Optimization]
-open_to: [Collaborations, Interesting Automation Projects]
-```
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:namakuhans@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/namakuhans"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/namakuhans"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://ihannsy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://instagram.com/saya.p4rhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -175,6 +160,6 @@ open_to: [Collaborations, Interesting Automation Projects]
 
 *"I build the systems that work while you sleep."*
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00BFFF&height=100&section=footer&text=Thank%20You%20for%20Visiting&fontSize=30&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&height=100&section=footer&text=Thank%20You%20for%20Visiting&fontSize=30&animation=fadeIn" width="100%" />
 
 </div>
