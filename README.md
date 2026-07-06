@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00BFFF&height=200&section=header&text=iHannsy&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&height=200&section=header&text=iHannsy&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
 
 # 🚀 Game Scripter & Automation Developer
 
@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-iHannsy.vercel.app-0099FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ihannsy.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namakuhans)
 [![Email](https://img.shields.io/badge/Email-Contact-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namakuhans@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namakuhans)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-10002B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namakuhans)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=namakuhans&color=00BFFF&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/namakuhans?color=0099FF&label=FOLLOWERS&style=flat-square)
@@ -122,28 +122,20 @@ A high-performance interactive link hub using WebGL to create a memorable person
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namakuhans&show_icons=true&theme=ocean&bg_color=10002B&title_color=00BFFF&icon_color=00BFFF&text_color=E0AAFF&border_color=0099FF" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakuhans&theme=ocean&background=10002B&fire=00BFFF&ring=0099FF&sideNums=E0AAFF&currStreakLabel=00BFFF&sideLabels=E0AAFF&dates=E0AAFF" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namakuhans&show_icons=true&theme=tokyonight&bg_color=10002B&title_color=00BFFF&icon_color=00BFFF&text_color=E0AAFF&border_color=0099FF" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakuhans&theme=tokyonight&background=10002B&fire=00BFFF&ring=0099FF&sideNums=E0AAFF&currStreakLabel=00BFFF&sideLabels=E0AAFF&dates=E0AAFF" height="180em" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakuhans&layout=compact&theme=ocean&bg_color=10002B&title_color=00BFFF&icon_color=00BFFF&text_color=E0AAFF&border_color=0099FF" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakuhans&layout=compact&theme=tokyonight&bg_color=10002B&title_color=00BFFF&icon_color=00BFFF&text_color=E0AAFF&border_color=0099FF" height="180em" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namakuhans&theme=ocean&no-bg=true&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/namakuhans/namakuhans/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namakuhans&theme=oceanic&bg_color=10002B&color=00BFFF&line=00BFFF&point=E0AAFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -175,6 +167,6 @@ open_to: [Collaborations, Interesting Automation Projects]
 
 *"I build the systems that work while you sleep."*
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00BFFF&height=100&section=footer&text=Thank%20You%20for%20Visiting&fontSize=30&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&height=100&section=footer&text=Thank%20You%20for%20Visiting&fontSize=30&animation=fadeIn" width="100%" />
 
 </div>
