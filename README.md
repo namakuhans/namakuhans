@@ -99,27 +99,14 @@ Advanced automation and game logic frameworks designed for low latency and high 
 
 </details>
 
-<details>
-<summary><b>🌐 3D Interactive Hub</b></summary>
-<br>
-
-A high-performance interactive link hub using WebGL to create a memorable personal brand identity.
-
-| Feature | Details |
-| :--- | :--- |
-| **Stack** | Next.js, Three.js, R3F, GLSL |
-| **Vibe** | Immersive 3D/WebGL Experience |
-| **Performance** | Near-instant load times with global edge deployment |
-
-[**View Repository**](https://github.com/namakuhans)
-- Custom shaders for unique visual effects.
-- Fully responsive 3D elements for mobile and desktop.
-
-</details>
-
 ---
 
 ## 📊 GitHub Analytics
+
+<!--
+NOTE: To self-deploy these stats, follow the guide provided in the initial setup.
+Replace 'github-readme-stats.vercel.app' with your own Vercel domain.
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namakuhans&show_icons=true&theme=tokyonight&bg_color=10002B&title_color=00BFFF&icon_color=00BFFF&text_color=E0AAFF&border_color=0099FF" height="180em" />
@@ -132,10 +119,26 @@ A high-performance interactive link hub using WebGL to create a memorable person
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namakuhans&theme=ocean&no-bg=true&column=7" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namakuhans&theme=oceanic&bg_color=10002B&color=00BFFF&line=00BFFF&point=E0AAFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/namakuhans/namakuhans/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
